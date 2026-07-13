@@ -121,4 +121,6 @@ This project is in active early development and open to contributions, feedback,
 
 ## License
 
-Open source. *(Add your chosen license here — MIT is a common default for projects like this.)*
+Open source. *(Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/)*
