@@ -1,0 +1,23 @@
+# Credentials — never commit these
+credentials.json
+token.json
+ai-model.py
+agent.md
+*.env
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Model cache (large, auto-downloaded, don't need to be in git)
+models_cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS/editor clutter
+.DS_Store
+.vscode/
